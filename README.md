@@ -14,4 +14,12 @@ Families abroad struggle to coordinate care for parents in Nigeria.
 Founder and product lead: research, UX, brand and full-stack build.
 
 ## Screenshots
-![Home screen](screenshots/home.png)
+![Splash screen 1](WhatsApp Image 2026-09-29 at 11.29.04 AM (4))
+![Splash screen 2](WhatsApp Image 2026-09-29 at 11.29.04 AM (3))
+![Splash screen 3](hs)
+![Onboarding 1](hk)
+![Onboarding 1](WhatsApp Image 2026-09-29 at 11.29.04 AM)
+![Onboarding 2](hh)
+![Onboarding 3](hj)
+
+
